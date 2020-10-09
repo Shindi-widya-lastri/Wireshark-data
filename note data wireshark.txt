@@ -1,0 +1,20 @@
+troughput  : 83659/151,729 = 551,37 dalam bytes
+
+1 bytes=8 bit
+551,37x8 =4410k bit/s
+
+
+packet lost	:(paket terkirim-paket tersisa):(paket terkirim)x100
+		  0 tidak ada paket yg gagal terkirim
+
+delay :
+total delay = 149.636.030 s
+rata2 delay = 444023,8279 s
+
+jitter :
+total jitter	:142.894.789
+rata2 jitter	:424.020
+
+
+
+
